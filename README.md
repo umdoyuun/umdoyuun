@@ -10,7 +10,7 @@
 ## 📄 Portfolio
 
 <p align="center">
-  <a href="./assets/엄도윤 포트폴리오(26_04).pdf">
+  <a href="./엄도윤 포트폴리오(26_04).pdf">
     <img src="https://img.shields.io/badge/📄 엄도윤 포트폴리오-PDF-blue?style=for-the-badge" alt="Download Portfolio PDF">
   </a>
 </p>
